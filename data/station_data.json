@@ -1,0 +1,2016 @@
+[
+    {
+        "stationName": "서울역",
+        "stationCode": "A03028031",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "호남선(고속)",
+            "전라선(고속)",
+            "강릉선(고속)",
+            "경부선"
+        ],
+        "stationAddress": "서울시 중구 한강대로 405"
+    },
+    {
+        "stationName": "용산역",
+        "stationCode": "A03028047",
+        "stationLines": [
+            "경부선(고속)",
+            "호남선(고속)",
+            "전라선(고속)",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "서울특별시 용산구 한강대로 23길 55"
+    },
+    {
+        "stationName": "영등포역",
+        "stationCode": "A03028043",
+        "stationLines": [
+            "경부선(고속)",
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "서울특별시 영등포구 경인로 846"
+    },
+    {
+        "stationName": "광명역",
+        "stationCode": "A03028005",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "호남선(고속)",
+            "전라선(고속)"
+        ],
+        "stationAddress": "경기도 광명시 광명역로 21"
+    },
+    {
+        "stationName": "청량리역",
+        "stationCode": "A03028060",
+        "stationLines": [
+            "강릉선(고속)",
+            "중앙선(고속)",
+            "중앙선"
+        ],
+        "stationAddress": "서울특별시 동대문구 왕산로 214"
+    },
+    {
+        "stationName": "안양역",
+        "stationCode": "A03028040",
+        "stationLines": [
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "경기도 안양시 만안구 만안로 244"
+    },
+    {
+        "stationName": "상봉역",
+        "stationCode": "A03028070",
+        "stationLines": [
+            "강릉선(고속)"
+        ],
+        "stationAddress": "서울특별시 중랑구 망우로 297"
+    },
+    {
+        "stationName": "수원역",
+        "stationCode": "A03028035",
+        "stationLines": [
+            "경부선(고속)",
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "경기도 수원시 팔달구 덕영대로 924 "
+    },
+    {
+        "stationName": "오산역",
+        "stationCode": "A03028045",
+        "stationLines": [
+            "경부선",
+            "전라선"
+        ],
+        "stationAddress": "경기도 오산시 오산동 역광장로 59"
+    },
+    {
+        "stationName": "서정리역",
+        "stationCode": "A03028031",
+        "stationLines": [
+            "경부선",
+            "호남선"
+        ],
+        "stationAddress": "경기도 평택시 탄현로 51"
+    },
+    {
+        "stationName": "서울역",
+        "stationCode": "A03028031",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "호남선(고속)",
+            "전라선(고속)",
+            "강릉선(고속)",
+            "경부선"
+        ],
+        "stationAddress": "서울시 중구 한강대로 405"
+    },
+    {
+        "stationName": "용산역",
+        "stationCode": "A03028047",
+        "stationLines": [
+            "경부선(고속)",
+            "호남선(고속)",
+            "전라선(고속)",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "서울특별시 용산구 한강대로 23길 55"
+    },
+    {
+        "stationName": "영등포역",
+        "stationCode": "A03028043",
+        "stationLines": [
+            "경부선(고속)",
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "서울특별시 영등포구 경인로 846"
+    },
+    {
+        "stationName": "광명역",
+        "stationCode": "A03028005",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "호남선(고속)",
+            "전라선(고속)"
+        ],
+        "stationAddress": "경기도 광명시 광명역로 21"
+    },
+    {
+        "stationName": "청량리역",
+        "stationCode": "A03028060",
+        "stationLines": [
+            "강릉선(고속)",
+            "중앙선(고속)",
+            "중앙선"
+        ],
+        "stationAddress": "서울특별시 동대문구 왕산로 214"
+    },
+    {
+        "stationName": "안양역",
+        "stationCode": "A03028040",
+        "stationLines": [
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "경기도 안양시 만안구 만안로 244"
+    },
+    {
+        "stationName": "상봉역",
+        "stationCode": "A03028070",
+        "stationLines": [
+            "강릉선(고속)"
+        ],
+        "stationAddress": "서울특별시 중랑구 망우로 297"
+    },
+    {
+        "stationName": "수원역",
+        "stationCode": "A03028035",
+        "stationLines": [
+            "경부선(고속)",
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "경기도 수원시 팔달구 덕영대로 924 "
+    },
+    {
+        "stationName": "오산역",
+        "stationCode": "A03028045",
+        "stationLines": [
+            "경부선",
+            "전라선"
+        ],
+        "stationAddress": "경기도 오산시 오산동 역광장로 59"
+    },
+    {
+        "stationName": "서정리역",
+        "stationCode": "A03028031",
+        "stationLines": [
+            "경부선",
+            "호남선"
+        ],
+        "stationAddress": "경기도 평택시 탄현로 51"
+    },
+    {
+        "stationName": "평택역",
+        "stationCode": "A03028064",
+        "stationLines": [
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "경기도 평택시 평택로 51"
+    },
+    {
+        "stationName": "성환역",
+        "stationCode": "A03028033",
+        "stationLines": [
+            "경부선",
+            "호남선",
+            "전라선"
+        ],
+        "stationAddress": "충청남도 천안시 서북구 성환읍 성환1로 237-5"
+    },
+    {
+        "stationName": "한림정역",
+        "stationCode": "A03028065",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 김해시 한림면 한림로372번길 20"
+    },
+    {
+        "stationName": "천안역",
+        "stationCode": "A03028060",
+        "stationLines": [
+            "경부선",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "충청남도 천안시 동남구 대흥로 239 "
+    },
+    {
+        "stationName": "전의역",
+        "stationCode": "A03028054",
+        "stationLines": [
+            "경부선",
+            "전라선"
+        ],
+        "stationAddress": "세종특별자치시 전의면 만세길 10 "
+    },
+    {
+        "stationName": "조치원역",
+        "stationCode": "A03028056",
+        "stationLines": [
+            "경부선",
+            "호남선",
+            "전라선",
+            "충북선"
+        ],
+        "stationAddress": "세종특별자치시 조치원읍 으뜸길 215"
+    },
+    {
+        "stationName": "부강역",
+        "stationCode": "A03028026",
+        "stationLines": [
+            "경부선",
+            "전라선"
+        ],
+        "stationAddress": "세종특별자치시 부강면 청연로 90"
+    },
+    {
+        "stationName": "신탄진역",
+        "stationCode": "A03028038",
+        "stationLines": [
+            "경부선",
+            "호남선",
+            "전라선",
+            "충북선"
+        ],
+        "stationAddress": "대전광역시 대덕구 신탄진로 807"
+    },
+    {
+        "stationName": "진영역",
+        "stationCode": "A03028059",
+        "stationLines": [
+            "경전선(고속)",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 김해시 진영읍 김해대로 809 "
+    },
+    {
+        "stationName": "오송역",
+        "stationCode": "A03028045",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "호남선(고속)",
+            "전라선(고속)",
+            "충북선"
+        ],
+        "stationAddress": "충청북도 청주시 흥덕구 오송읍 오송가락로 123"
+    },
+    {
+        "stationName": "청주역",
+        "stationCode": "A03028061",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 청주시 흥덕구 청주역로 363"
+    },
+    {
+        "stationName": "천안아산역",
+        "stationCode": "A03028060",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "호남선(고속)",
+            "전라선(고속)"
+        ],
+        "stationAddress": "충청남도 아산시 배방읍 희망로 100 "
+    },
+    {
+        "stationName": "대전역",
+        "stationCode": "A03028013",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "경부선",
+            "충북선"
+        ],
+        "stationAddress": "대전광역시 동구 중앙로 215"
+    },
+    {
+        "stationName": "오근장역",
+        "stationCode": "A03028044",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 청주시 청원구 토성로 443"
+    },
+    {
+        "stationName": "청주공항역",
+        "stationCode": "A03028061",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 청주시 청원구 오창대로 980"
+    },
+    {
+        "stationName": "증평역",
+        "stationCode": "A03028058",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 증평군 증평읍 역전로 92"
+    },
+    {
+        "stationName": "옥천역",
+        "stationCode": "A03028046",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "충청북도 옥천군 옥천읍 옥천로 1624 "
+    },
+    {
+        "stationName": "이원역",
+        "stationCode": "A03028051",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "충청북도 옥천군 이원면 이원역길 51"
+    },
+    {
+        "stationName": "지탄역",
+        "stationCode": "A03028058",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "충청북도 옥천군 이원면 지탄1길 28"
+    },
+    {
+        "stationName": "심천역",
+        "stationCode": "A03028038",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "충청북도 영동군 심천면 심천로5길 5"
+    },
+    {
+        "stationName": "영동역",
+        "stationCode": "A03028043",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "충청북도 영동군 영동읍 계산로 87"
+    },
+    {
+        "stationName": "음성역",
+        "stationCode": "A03028050",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 음성군 음성읍 한불로 60 "
+    },
+    {
+        "stationName": "황간역",
+        "stationCode": "A03028067",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "충청북도 영동군 황간면 하옥포2길 14"
+    },
+    {
+        "stationName": "주덕역",
+        "stationCode": "A03028056",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 충주시 주덕읍 신양로 138"
+    },
+    {
+        "stationName": "추풍령역",
+        "stationCode": "A03028062",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "충청북도 영동군 추풍령면 추풍령로 444"
+    },
+    {
+        "stationName": "진례역",
+        "stationCode": "A03028070",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 김해시 진례면 테크노밸리길 94"
+    },
+    {
+        "stationName": "덕소역",
+        "stationCode": "A03028014",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 남양주시 와부읍 덕소로 56"
+    },
+    {
+        "stationName": "충주역",
+        "stationCode": "A03028062",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 충주시 충원대로 539"
+    },
+    {
+        "stationName": "김천역",
+        "stationCode": "A03028009",
+        "stationLines": [
+            "경부선",
+            "경북선"
+        ],
+        "stationAddress": "경상북도 김천시 김천로 111 "
+    },
+    {
+        "stationName": "옥산역",
+        "stationCode": "A03028046",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 상주시 공성면 산현1길 28"
+    },
+    {
+        "stationName": "청리역",
+        "stationCode": "A03028061",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 상주시 청리면 청리중앙로 135-5"
+    },
+    {
+        "stationName": "상주역",
+        "stationCode": "A03028030",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 상주시 남문1길 24"
+    },
+    {
+        "stationName": "삼탄역",
+        "stationCode": "A03028029",
+        "stationLines": [
+            "충북선"
+        ],
+        "stationAddress": "충청북도 충주시 산척면 삼여울길 108"
+    },
+    {
+        "stationName": "구미역",
+        "stationCode": "A03028006",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "경상북도 구미시 구미중앙로 76"
+    },
+    {
+        "stationName": "약목역",
+        "stationCode": "A03028040",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "경상북도 칠곡군 약목면 칠곡대로 635 "
+    },
+    {
+        "stationName": "왜관역",
+        "stationCode": "A03028047",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "경상북도 칠곡군 왜관읍 중앙로8길 10"
+    },
+    {
+        "stationName": "신동역",
+        "stationCode": "A03028036",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "경상북도 칠곡군 지천면 신동로7길 37"
+    },
+    {
+        "stationName": "창원중앙역",
+        "stationCode": "A03028070",
+        "stationLines": [
+            "경전선(고속)",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 창원시 의창구 상남로 381"
+    },
+    {
+        "stationName": "서대전역",
+        "stationCode": "A03028030",
+        "stationLines": [
+            "호남선(고속)",
+            "전라선(고속)",
+            "호남선",
+            "전라선"
+        ],
+        "stationAddress": "대전광역시 중구 오류로 23"
+    },
+    {
+        "stationName": "대구역",
+        "stationCode": "A03028012",
+        "stationLines": [
+            "경부선"
+        ],
+        "stationAddress": "대구광역시 중구 태평로 161"
+    },
+    {
+        "stationName": "동대구역",
+        "stationCode": "A03028016",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "경부선",
+            "중앙선",
+            "대구선",
+            "동해남부선",
+            "경전선"
+        ],
+        "stationAddress": "대구광역시 동구 동대구로 550 "
+    },
+    {
+        "stationName": "경산역",
+        "stationCode": "A03028003",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상북도 경산시 중앙로 1"
+    },
+    {
+        "stationName": "함창역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 상주시 함창읍 가야로 3"
+    },
+    {
+        "stationName": "행신역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)",
+            "호남선(고속)",
+            "전라선(고속)"
+        ],
+        "stationAddress": "경기도 고양시 덕양구 소원로 102"
+    },
+    {
+        "stationName": "남성현역",
+        "stationCode": "A03028009",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상북도 청도군 화양읍 다로길 39 "
+    },
+    {
+        "stationName": "하양역",
+        "stationCode": "A03028065",
+        "stationLines": [
+            "중앙선",
+            "대구선",
+            "동해남부선"
+        ],
+        "stationAddress": "경상북도 경산시 하양읍 하양역길 1"
+    },
+    {
+        "stationName": "청도역",
+        "stationCode": "A03028060",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상북도 청도군 청도읍 청화로 214"
+    },
+    {
+        "stationName": "상동역",
+        "stationCode": "A03028030",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 밀양시 상동면 금산7길 4 "
+    },
+    {
+        "stationName": "창원역",
+        "stationCode": "A03028060",
+        "stationLines": [
+            "경전선(고속)",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 창원시 의창구 의창대로 67 "
+    },
+    {
+        "stationName": "밀양역",
+        "stationCode": "A03028022",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 밀양시 중앙로 62 "
+    },
+    {
+        "stationName": "점촌역",
+        "stationCode": "A03028054",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 문경시 신흥로 170"
+    },
+    {
+        "stationName": "신경주역",
+        "stationCode": "A03028070",
+        "stationLines": [
+            "경부선(고속)"
+        ],
+        "stationAddress": "경상북도 경주시 건천읍 신경주역로 80"
+    },
+    {
+        "stationName": "삼랑진역",
+        "stationCode": "A03028029",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 밀양시 삼랑진읍 천태로 72"
+    },
+    {
+        "stationName": "원동역",
+        "stationCode": "A03028049",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 양산시 원동면 원동마을길 13"
+    },
+    {
+        "stationName": "물금역",
+        "stationCode": "A03028021",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 양산시 물금읍 황산로 347 "
+    },
+    {
+        "stationName": "화명역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "부산광역시 북구 학사로 135"
+    },
+    {
+        "stationName": "구포역",
+        "stationCode": "A03028007",
+        "stationLines": [
+            "경부선(고속)",
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "부산광역시 북구 구포만세길 82"
+    },
+    {
+        "stationName": "사상역",
+        "stationCode": "A03028028",
+        "stationLines": [
+            "경부선",
+            "경전선"
+        ],
+        "stationAddress": "부산광역시 사상구 광장로 108"
+    },
+    {
+        "stationName": "부전역",
+        "stationCode": "A03028026",
+        "stationLines": [
+            "경부선",
+            "중앙선",
+            "동해남부선",
+            "경전선"
+        ],
+        "stationAddress": "부산광역시 부산진구 부전로 181 "
+    },
+    {
+        "stationName": "울산역",
+        "stationCode": "A03028048",
+        "stationLines": [
+            "경부선(고속)"
+        ],
+        "stationAddress": "울산광역시 울주군 삼남면 울산역로 177"
+    },
+    {
+        "stationName": "마산역",
+        "stationCode": "A03028018",
+        "stationLines": [
+            "경전선(고속)",
+            "경전선"
+        ],
+        "stationAddress": "경남 창원시 마산회원구 마산역광장로18"
+    },
+    {
+        "stationName": "개포역",
+        "stationCode": "A03028002",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 예천군 개포면 방터길 7-11"
+    },
+    {
+        "stationName": "아산역",
+        "stationCode": "A03028039",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 아산시 배방읍 희망로 90"
+    },
+    {
+        "stationName": "용궁역",
+        "stationCode": "A03028047",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 예천군 용궁면 용궁로 80"
+    },
+    {
+        "stationName": "계룡역",
+        "stationCode": "A03028003",
+        "stationLines": [
+            "호남선(고속)",
+            "전라선(고속)",
+            "호남선",
+            "전라선"
+        ],
+        "stationAddress": "충청남도 계룡시 두마면 팥거리로 95"
+    },
+    {
+        "stationName": "예천역",
+        "stationCode": "A03028044",
+        "stationLines": [
+            "경북선"
+        ],
+        "stationAddress": "경상북도 예천군 예천읍 역전길 4"
+    },
+    {
+        "stationName": "중리역",
+        "stationCode": "A03028057",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 창원시 마산회원구 내서읍 함마대로 2803-3 "
+    },
+    {
+        "stationName": "함안역",
+        "stationCode": "A03028065",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 함안군 함안면 진함로 1637"
+    },
+    {
+        "stationName": "기장역",
+        "stationCode": "A03028008",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "부산광역시 기장군 기장읍 차성로288번길 86"
+    },
+    {
+        "stationName": "온양온천역",
+        "stationCode": "A03028046",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 아산시 온천대로 1496"
+    },
+    {
+        "stationName": "군북역",
+        "stationCode": "A03028007",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 함안군 군북면 의산삼일로 1992"
+    },
+    {
+        "stationName": "좌천역",
+        "stationCode": "A03028056",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "부산광역시 기장군 장안읍 좌천리 좌천로 40-13"
+    },
+    {
+        "stationName": "연산역",
+        "stationCode": "A03028043",
+        "stationLines": [
+            "호남선",
+            "전라선"
+        ],
+        "stationAddress": "충청남도 논산시 연산면 선비로275번길 31-2 "
+    },
+    {
+        "stationName": "논산역",
+        "stationCode": "A03028011",
+        "stationLines": [
+            "호남선(고속)",
+            "전라선(고속)",
+            "호남선",
+            "전라선"
+        ],
+        "stationAddress": "충청남도 논산시 해월로 236-12"
+    },
+    {
+        "stationName": "도고온천역",
+        "stationCode": "A03028015",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 아산시 도고면 온천대로 304"
+    },
+    {
+        "stationName": "신례원역",
+        "stationCode": "A03028036",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 예산군 예산읍 신례원로212번길 19-12 "
+    },
+    {
+        "stationName": "남창역",
+        "stationCode": "A03028010",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "울산광역시 울주군 온양읍 남창역길 40 "
+    },
+    {
+        "stationName": "양평역",
+        "stationCode": "A03028041",
+        "stationLines": [
+            "강릉선(고속)",
+            "중앙선(고속)",
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 양평읍 역전길 30"
+    },
+    {
+        "stationName": "덕하역",
+        "stationCode": "A03028014",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "울산광역시 울주군 청량읍 상남리 533-15"
+    },
+    {
+        "stationName": "강경역",
+        "stationCode": "A03028001",
+        "stationLines": [
+            "호남선",
+            "전라선"
+        ],
+        "stationAddress": "충청남도 논산시 강경읍 대흥로 1 "
+    },
+    {
+        "stationName": "예산역",
+        "stationCode": "A03028044",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 예산군 예산읍 역전로 83"
+    },
+    {
+        "stationName": "반성역",
+        "stationCode": "A03028022",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 진주시 일반성면 일사로 787"
+    },
+    {
+        "stationName": "함열역",
+        "stationCode": "A03028065",
+        "stationLines": [
+            "호남선",
+            "전라선"
+        ],
+        "stationAddress": "전라북도 익산시 함열읍 함열로 71"
+    },
+    {
+        "stationName": "태화강역",
+        "stationCode": "A03028070",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "울산광역시 남구 산업로 654 "
+    },
+    {
+        "stationName": "삽교역",
+        "stationCode": "A03028030",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 예산군 삽교읍 삽교역로 101-14"
+    },
+    {
+        "stationName": "용문역",
+        "stationCode": "A03028047",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 용문면 용문역길 21"
+    },
+    {
+        "stationName": "지평역",
+        "stationCode": "A03028058",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 지평면 지평역길 32"
+    },
+    {
+        "stationName": "석불역",
+        "stationCode": "A03028032",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 지평면 망미리 1319-2"
+    },
+    {
+        "stationName": "일신역",
+        "stationCode": "A03028006",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 지평면 노곡길 2"
+    },
+    {
+        "stationName": "호계역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "울산광역시 북구 호계6길 30"
+    },
+    {
+        "stationName": "매곡역",
+        "stationCode": "A03028019",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 양동면 매월리 1031 "
+    },
+    {
+        "stationName": "홍성역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 홍성군 홍성읍 조양로 272"
+    },
+    {
+        "stationName": "양동역",
+        "stationCode": "A03028040",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 양동면 양동역길 19"
+    },
+    {
+        "stationName": "삼산역",
+        "stationCode": "A03028063",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경기도 양평군 양동면 삼산역길 193"
+    },
+    {
+        "stationName": "불국사역",
+        "stationCode": "A03028027",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "경상북도 경주시 산업로 3043-8"
+    },
+    {
+        "stationName": "진주역",
+        "stationCode": "A03028059",
+        "stationLines": [
+            "경전선(고속)",
+            "경전선"
+        ],
+        "stationAddress": "경상남도 진주시 개양로 116번길 33"
+    },
+    {
+        "stationName": "만종역",
+        "stationCode": "A03028019",
+        "stationLines": [
+            "강릉선(고속)"
+        ],
+        "stationAddress": "강원도 원주시 호저면 운동들2길 21-33"
+    },
+    {
+        "stationName": "완사역",
+        "stationCode": "A03028047",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 사천시 곤명면 경서대로 3435"
+    },
+    {
+        "stationName": "광천역",
+        "stationCode": "A03028005",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 홍성군 광천읍 광천로273번길 85"
+    },
+    {
+        "stationName": "북천역",
+        "stationCode": "A03028027",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 하동군 북천면 경서대로 2347"
+    },
+    {
+        "stationName": "안강역",
+        "stationCode": "A03028039",
+        "stationLines": [
+            "대구선",
+            "동해남부선"
+        ],
+        "stationAddress": "경상북도 경주시 안강읍 비화원로 15-1"
+    },
+    {
+        "stationName": "청소역",
+        "stationCode": "A03028061",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 보령시 청소면 청소큰길 176"
+    },
+    {
+        "stationName": "원주역",
+        "stationCode": "A03028049",
+        "stationLines": [
+            "중앙선(고속)",
+            "중앙선"
+        ],
+        "stationAddress": "강원도 원주시 북원로 1860"
+    },
+    {
+        "stationName": "극락강역",
+        "stationCode": "A03028007",
+        "stationLines": [
+            "호남선",
+            "광주-광주송정 셔틀"
+        ],
+        "stationAddress": "광주광역시 광산구 목련로310-23"
+    },
+    {
+        "stationName": "횡천역",
+        "stationCode": "A03028068",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 하동군 횡천면 경서대로 998-12 "
+    },
+    {
+        "stationName": "부산역",
+        "stationCode": "A03028026",
+        "stationLines": [
+            "경부선(고속)",
+            "경부선"
+        ],
+        "stationAddress": "부산광역시 동구 중앙대로 206"
+    },
+    {
+        "stationName": "대천역",
+        "stationCode": "A03028014",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 보령시 대해로 116 "
+    },
+    {
+        "stationName": "하동역",
+        "stationCode": "A03028064",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "경상남도 하동군 하동읍 너뱅이길 30 "
+    },
+    {
+        "stationName": "진상역",
+        "stationCode": "A03028059",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 광양시 진상면 옥진로 1112"
+    },
+    {
+        "stationName": "광양역",
+        "stationCode": "A03028005",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 광양시 광양읍 해광로 800"
+    },
+    {
+        "stationName": "웅천역",
+        "stationCode": "A03028048",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 보령시 웅천읍 방축길 151"
+    },
+    {
+        "stationName": "봉양역",
+        "stationCode": "A03028025",
+        "stationLines": [
+            "중앙선",
+            "충북선"
+        ],
+        "stationAddress": "충청북도 제천시 봉양면 주포로 8길 58"
+    },
+    {
+        "stationName": "판교역",
+        "stationCode": "A03028063",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 서천군 판교면 저산길 8번"
+    },
+    {
+        "stationName": "제천역",
+        "stationCode": "A03028055",
+        "stationLines": [
+            "중앙선(고속)",
+            "중앙선",
+            "충북선",
+            "태백선"
+        ],
+        "stationAddress": "충청북도 제천시 의림대로 1"
+    },
+    {
+        "stationName": "서천역",
+        "stationCode": "A03028031",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 서천군 서천읍 서천역길 57"
+    },
+    {
+        "stationName": "장항역",
+        "stationCode": "A03028053",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "충청남도 서천군 마서면 장항역길 55"
+    },
+    {
+        "stationName": "군산역",
+        "stationCode": "A03028007",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "전라북도 군산시 내흥2길 197"
+    },
+    {
+        "stationName": "단양역",
+        "stationCode": "A03028012",
+        "stationLines": [
+            "중앙선(고속)",
+            "중앙선",
+            "충북선"
+        ],
+        "stationAddress": "충청북도 단양군 단양읍 단양로 896"
+    },
+    {
+        "stationName": "광주역",
+        "stationCode": "A03028005",
+        "stationLines": [
+            "호남선",
+            "광주-광주송정 셔틀"
+        ],
+        "stationAddress": "광주광역시 북구 무등로 235"
+    },
+    {
+        "stationName": "포항역",
+        "stationCode": "A03028064",
+        "stationLines": [
+            "동해선(고속)",
+            "대구선",
+            "동해남부선",
+            "동해선"
+        ],
+        "stationAddress": "경상북도 포항시 북구 흥해읍 포항역로 1"
+    },
+    {
+        "stationName": "풍기역",
+        "stationCode": "A03028064",
+        "stationLines": [
+            "중앙선(고속)",
+            "중앙선",
+            "충북선"
+        ],
+        "stationAddress": "경상북도 영주시 풍기읍 인삼로 1"
+    },
+    {
+        "stationName": "쌍용역",
+        "stationCode": "A03028069",
+        "stationLines": [
+            "태백선"
+        ],
+        "stationAddress": "강원도 영월군 한반도면 용정원길 9"
+    },
+    {
+        "stationName": "영주역",
+        "stationCode": "A03028043",
+        "stationLines": [
+            "중앙선(고속)",
+            "중앙선",
+            "충북선",
+            "경북선",
+            "영동선"
+        ],
+        "stationAddress": "경상북도 영주시 선비로 64"
+    },
+    {
+        "stationName": "영월역",
+        "stationCode": "A03028043",
+        "stationLines": [
+            "태백선"
+        ],
+        "stationAddress": "강원도 영월군 영월읍 영월로 2106"
+    },
+    {
+        "stationName": "봉화역",
+        "stationCode": "A03028025",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 봉화읍 봉화로 1072-1 "
+    },
+    {
+        "stationName": "예미역",
+        "stationCode": "A03028044",
+        "stationLines": [
+            "태백선"
+        ],
+        "stationAddress": "강원도 정선군 신동읍 함백로 55"
+    },
+    {
+        "stationName": "민둥산역",
+        "stationCode": "A03028069",
+        "stationLines": [
+            "태백선"
+        ],
+        "stationAddress": "강원도 정선군 남면 무릉1로 128"
+    },
+    {
+        "stationName": "춘양역",
+        "stationCode": "A03028062",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 춘양면 운곡길 22-2 "
+    },
+    {
+        "stationName": "사북역",
+        "stationCode": "A03028028",
+        "stationLines": [
+            "태백선"
+        ],
+        "stationAddress": "강원도 정선군 사북읍 지장천로 616-12"
+    },
+    {
+        "stationName": "안동역",
+        "stationCode": "A03028039",
+        "stationLines": [
+            "중앙선(고속)",
+            "중앙선"
+        ],
+        "stationAddress": "경상북도 안동시 경동로 122-16"
+    },
+    {
+        "stationName": "고한역",
+        "stationCode": "A03028004",
+        "stationLines": [
+            "태백선"
+        ],
+        "stationAddress": "강원도 정선군 고한읍 고한로166"
+    },
+    {
+        "stationName": "임기역",
+        "stationCode": "A03028052",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 소천면 숲터길 58 "
+    },
+    {
+        "stationName": "현동역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 소천면 열람이길 55"
+    },
+    {
+        "stationName": "분천역",
+        "stationCode": "A03028027",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 소천면 분천길 49"
+    },
+    {
+        "stationName": "태백역",
+        "stationCode": "A03028063",
+        "stationLines": [
+            "태백선"
+        ],
+        "stationAddress": "강원도 태백시 서황지로 79"
+    },
+    {
+        "stationName": "의성역",
+        "stationCode": "A03028050",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경상북도 의성군 의성읍 문소3길 89-8 "
+    },
+    {
+        "stationName": "승부역",
+        "stationCode": "A03028035",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 석포면 승부길 1162-5"
+    },
+    {
+        "stationName": "석포역",
+        "stationCode": "A03028032",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 석포면 석포로 134"
+    },
+    {
+        "stationName": "탑리역",
+        "stationCode": "A03028062",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경상북도 의성군 금성면 탑리5길 31"
+    },
+    {
+        "stationName": "대야역",
+        "stationCode": "A03028013",
+        "stationLines": [
+            "장항선"
+        ],
+        "stationAddress": "전라북도 군산시 대야면 대야관통로 46-6"
+    },
+    {
+        "stationName": "철암역",
+        "stationCode": "A03028060",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "강원도 태백시 동태백로 389"
+    },
+    {
+        "stationName": "화본역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경상북도 군위군 산성면 산성가음로 711-9"
+    },
+    {
+        "stationName": "동백산역",
+        "stationCode": "A03028017",
+        "stationLines": [
+            "영동선",
+            "태백선"
+        ],
+        "stationAddress": "강원도 태백시 동태백로 984"
+    },
+    {
+        "stationName": "신녕역",
+        "stationCode": "A03028036",
+        "stationLines": [
+            "중앙선"
+        ],
+        "stationAddress": "경상북도 영천시 신녕면 장수로 1587"
+    },
+    {
+        "stationName": "익산역",
+        "stationCode": "A03028051",
+        "stationLines": [
+            "호남선(고속)",
+            "전라선(고속)",
+            "호남선",
+            "전라선",
+            "장항선"
+        ],
+        "stationAddress": "전라북도 익산시 익산대로 153"
+    },
+    {
+        "stationName": "김제역",
+        "stationCode": "A03028008",
+        "stationLines": [
+            "호남선(고속)",
+            "호남선"
+        ],
+        "stationAddress": "전라북도 김제시 두월로 198번지"
+    },
+    {
+        "stationName": "북영천역",
+        "stationCode": "A03028027",
+        "stationLines": [
+            "중앙선",
+            "대구선"
+        ],
+        "stationAddress": "경상북도 영천시 장수로 61"
+    },
+    {
+        "stationName": "삼례역",
+        "stationCode": "A03028029",
+        "stationLines": [
+            "전라선"
+        ],
+        "stationAddress": "전라북도 완주군 삼례읍 삼례역로 85-32"
+    },
+    {
+        "stationName": "도계역",
+        "stationCode": "A03028014",
+        "stationLines": [
+            "영동선",
+            "태백선"
+        ],
+        "stationAddress": "강원도 삼척시 도계로 222"
+    },
+    {
+        "stationName": "신태인역",
+        "stationCode": "A03028038",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전라북도 정읍시 신태인읍 정신로 1163번지"
+    },
+    {
+        "stationName": "영천역",
+        "stationCode": "A03028043",
+        "stationLines": [
+            "중앙선",
+            "대구선",
+            "동해남부선"
+        ],
+        "stationAddress": "경상북도 영천시 금완로 98 "
+    },
+    {
+        "stationName": "정읍역",
+        "stationCode": "A03028055",
+        "stationLines": [
+            "호남선(고속)",
+            "호남선"
+        ],
+        "stationAddress": "전라북도 정읍시 서부산업도로 305"
+    },
+    {
+        "stationName": "전주역",
+        "stationCode": "A03028054",
+        "stationLines": [
+            "전라선(고속)",
+            "전라선"
+        ],
+        "stationAddress": "전라북도 전주시 덕지구 동부대로 680번지"
+    },
+    {
+        "stationName": "건천역",
+        "stationCode": "A03028003",
+        "stationLines": [
+            "대구선"
+        ],
+        "stationAddress": "경상북도 경주시 건천읍 내서로 1038-18"
+    },
+    {
+        "stationName": "백양사역",
+        "stationCode": "A03028023",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전라남도 장성군 북이면 백양로 2-14"
+    },
+    {
+        "stationName": "신기역",
+        "stationCode": "A03028036",
+        "stationLines": [
+            "영동선",
+            "태백선"
+        ],
+        "stationAddress": "강원도 삼척시 신기역길 89"
+    },
+    {
+        "stationName": "서경주역",
+        "stationCode": "A03028070",
+        "stationLines": [
+            "중앙선",
+            "대구선",
+            "동해남부선"
+        ],
+        "stationAddress": "경상북도 경주시 현곡면 용담로 198-5"
+    },
+    {
+        "stationName": "임실역",
+        "stationCode": "A03028052",
+        "stationLines": [
+            "전라선"
+        ],
+        "stationAddress": "전라북도 임실군 임실읍 춘향로 2932 "
+    },
+    {
+        "stationName": "장성역",
+        "stationCode": "A03028053",
+        "stationLines": [
+            "호남선(고속)",
+            "호남선"
+        ],
+        "stationAddress": "전라남도 장성군 장성읍 역전로 87"
+    },
+    {
+        "stationName": "동해역",
+        "stationCode": "A03028018",
+        "stationLines": [
+            "강릉선(고속)",
+            "영동선",
+            "태백선",
+            "동해-강릉 셔틀"
+        ],
+        "stationAddress": "강원도 동해시 동해역길 69"
+    },
+    {
+        "stationName": "경주역",
+        "stationCode": "A03028003",
+        "stationLines": [
+            "중앙선",
+            "대구선",
+            "동해남부선"
+        ],
+        "stationAddress": "경상북도 경주시 원화로 266"
+    },
+    {
+        "stationName": "오수역",
+        "stationCode": "A03028045",
+        "stationLines": [
+            "전라선"
+        ],
+        "stationAddress": "전라북도 임실군 오수면 충효로 1967-19"
+    },
+    {
+        "stationName": "묵호역",
+        "stationCode": "A03028021",
+        "stationLines": [
+            "강릉선(고속)",
+            "동해-강릉 셔틀"
+        ],
+        "stationAddress": "강원도 동해시 해안로 520"
+    },
+    {
+        "stationName": "남원역",
+        "stationCode": "A03028010",
+        "stationLines": [
+            "전라선(고속)",
+            "전라선"
+        ],
+        "stationAddress": "전라북도 남원시 교룡로 71"
+    },
+    {
+        "stationName": "정동진역",
+        "stationCode": "A03028054",
+        "stationLines": [
+            "강릉선(고속)",
+            "동해-강릉 셔틀"
+        ],
+        "stationAddress": "강원도 강릉시 강동면 정동역길 17"
+    },
+    {
+        "stationName": "곡성역",
+        "stationCode": "A03028004",
+        "stationLines": [
+            "전라선(고속)",
+            "전라선"
+        ],
+        "stationAddress": "전라남도 곡성군 곡성읍 곡성로 920 "
+    },
+    {
+        "stationName": "구례구역",
+        "stationCode": "A03028006",
+        "stationLines": [
+            "전라선(고속)",
+            "전라선"
+        ],
+        "stationAddress": "전라남도 순천시 황전면 섬진강로 217 "
+    },
+    {
+        "stationName": "순천역",
+        "stationCode": "A03028035",
+        "stationLines": [
+            "전라선(고속)",
+            "전라선",
+            "경전선"
+        ],
+        "stationAddress": "전라남도 순천시 팔마로 135"
+    },
+    {
+        "stationName": "벌교역",
+        "stationCode": "A03028024",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 보성군 벌교읍 채동선로 228"
+    },
+    {
+        "stationName": "조성역",
+        "stationCode": "A03028056",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 보성군 조성면 조성4길 14"
+    },
+    {
+        "stationName": "예당역",
+        "stationCode": "A03028044",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 보성군 득량면 예당역전길 19"
+    },
+    {
+        "stationName": "여천역",
+        "stationCode": "A03028042",
+        "stationLines": [
+            "전라선(고속)",
+            "전라선"
+        ],
+        "stationAddress": "전라남도 여수시 시청로 200"
+    },
+    {
+        "stationName": "득량역",
+        "stationCode": "A03028018",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 보성군 득량면 역전길 28"
+    },
+    {
+        "stationName": "여수엑스포역",
+        "stationCode": "A03028042",
+        "stationLines": [
+            "전라선(고속)",
+            "전라선"
+        ],
+        "stationAddress": "전라남도 여수시 망양로 2"
+    },
+    {
+        "stationName": "보성역",
+        "stationCode": "A03028024",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 보성군 보성읍 현충로 90"
+    },
+    {
+        "stationName": "명봉역",
+        "stationCode": "A03028020",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 보성군 노동면 예재로 384 "
+    },
+    {
+        "stationName": "이양역",
+        "stationCode": "A03028051",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 화순군 이양면 이양로 134 "
+    },
+    {
+        "stationName": "능주역",
+        "stationCode": "A03028011",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 화순군 능주면 학포로 1896-10 "
+    },
+    {
+        "stationName": "화순역",
+        "stationCode": "A03028067",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "전라남도 화순군 화순읍 오성로 488-5"
+    },
+    {
+        "stationName": "효천역",
+        "stationCode": "A03028068",
+        "stationLines": [
+            "경전선"
+        ],
+        "stationAddress": "광주광역시 남구 효천길 5"
+    },
+    {
+        "stationName": "서광주역",
+        "stationCode": "A03028030",
+        "stationLines": [
+            "호남선",
+            "경전선"
+        ],
+        "stationAddress": "광주광역시 서구 풍서좌로 203"
+    },
+    {
+        "stationName": "광주송정역",
+        "stationCode": "A03028034",
+        "stationLines": [
+            "호남선(고속)",
+            "호남선",
+            "경전선",
+            "광주-광주송정 셔틀"
+        ],
+        "stationAddress": "광주광역시 광산구 상무대로 201"
+    },
+    {
+        "stationName": "나주역",
+        "stationCode": "A03028009",
+        "stationLines": [
+            "호남선(고속)",
+            "호남선"
+        ],
+        "stationAddress": "전라남도 나주시 나주역길 56"
+    },
+    {
+        "stationName": "다시역",
+        "stationCode": "A03028012",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전라남도 나주시 다시면 다시로 218 "
+    },
+    {
+        "stationName": "함평역",
+        "stationCode": "A03028066",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전남 함평군 학교면 영산로 3530"
+    },
+    {
+        "stationName": "무안역",
+        "stationCode": "A03028021",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전라남도 무안군 몽탄면 우명길 16-32"
+    },
+    {
+        "stationName": "몽탄역",
+        "stationCode": "A03028020",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전라남도 무안군 몽탄면 몽탄로 869 "
+    },
+    {
+        "stationName": "일로역",
+        "stationCode": "A03028052",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전라남도 무안군 삼향읍 국사로 5-11"
+    },
+    {
+        "stationName": "임성리역",
+        "stationCode": "A03028052",
+        "stationLines": [
+            "호남선"
+        ],
+        "stationAddress": "전라남도 목포시 임성로 62번길 18"
+    },
+    {
+        "stationName": "목포역",
+        "stationCode": "A03028020",
+        "stationLines": [
+            "호남선(고속)",
+            "호남선"
+        ],
+        "stationAddress": "전남 목포시 영산로 98"
+    },
+    {
+        "stationName": "강릉역",
+        "stationCode": "A03028001",
+        "stationLines": [
+            "강릉선(고속)",
+            "동해-강릉 셔틀"
+        ],
+        "stationAddress": "강원도 강릉시 용지로 176 "
+    },
+    {
+        "stationName": "공주역",
+        "stationCode": "A99999999",
+        "stationLines": [
+            "호남선(고속)",
+            "전라선(고속)"
+        ],
+        "stationAddress": "충청남도 공주시 이인면 새빛로 100 "
+    },
+    {
+        "stationName": "신해운대역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "경부선",
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "부산광역시 해운대구 장산로 427"
+    },
+    {
+        "stationName": "월포역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "동해선"
+        ],
+        "stationAddress": "경상북도 포항시 북구 청하면 월포로 137"
+    },
+    {
+        "stationName": "평창역",
+        "stationCode": "A03028073",
+        "stationLines": [
+            "강릉선(고속)"
+        ],
+        "stationAddress": "강원도 평창군 용평면 평창대로 1715"
+    },
+    {
+        "stationName": "횡성역",
+        "stationCode": "A03028073",
+        "stationLines": [
+            "강릉선(고속)"
+        ],
+        "stationAddress": "강원도 횡성군 횡성읍 덕고로 591"
+    },
+    {
+        "stationName": "진부(오대산)역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "강릉선(고속)"
+        ],
+        "stationAddress": "강원도 평창군 진부면 송정길 120"
+    },
+    {
+        "stationName": "장사역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "동해선"
+        ],
+        "stationAddress": "경상북도 영덕군 남정면 진불2길 26"
+    },
+    {
+        "stationName": "영덕역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "동해선"
+        ],
+        "stationAddress": "경상북도 영덕군 영덕읍 중앙길 29"
+    },
+    {
+        "stationName": "강구역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "동해선"
+        ],
+        "stationAddress": "경상북도 영덕군 강구면 강산로 67"
+    },
+    {
+        "stationName": "김천(구미)",
+        "stationCode": "A03028071",
+        "stationLines": [
+            "경부선(고속)",
+            "경전선(고속)",
+            "동해선(고속)"
+        ],
+        "stationAddress": "경상북도 김천시 남면 혁신1로 51"
+    },
+    {
+        "stationName": "둔내역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "강릉선(고속)"
+        ],
+        "stationAddress": "강원도 횡성군 둔내면 자포곡리 429-1"
+    },
+    {
+        "stationName": "센텀역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "중앙선",
+            "동해남부선"
+        ],
+        "stationAddress": "부산광역시 해운대구 해운대로 210"
+    },
+    {
+        "stationName": "서원주역",
+        "stationCode": "A03028072",
+        "stationLines": [
+            "강릉선(고속)",
+            "중앙선(고속)",
+            "중앙선"
+        ],
+        "stationAddress": "강원도 원주시 지정로 145"
+    },
+    {
+        "stationName": "양원(영동선)역",
+        "stationCode": "A03028071",
+        "stationLines": [
+            "영동선"
+        ],
+        "stationAddress": "경상북도 봉화군 소천면 분천리 113-2"
+    }
+]
