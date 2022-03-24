@@ -44,7 +44,6 @@ backend/.sts4-cache
 backend/bin/
 backend/!**/src/main/**/bin/
 backend/!**/src/test/**/bin/
-backend/
 ### IntelliJ IDEA ###
 backend/.idea
 backend/*.iws
@@ -53,13 +52,11 @@ backend/*.ipr
 backend/out/
 backend/!**/src/main/**/out/
 backend/!**/src/test/**/out/
-backend/
 ### NetBeans ###
 backend//nbproject/private/
 backend//nbbuild/
 backend//dist/
 backend//nbdist/
 backend//.nb-gradle/
-backend/
 ### VS Code ###
 backend/.vscode/
