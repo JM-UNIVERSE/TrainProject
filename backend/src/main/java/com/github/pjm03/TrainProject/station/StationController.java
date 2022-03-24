@@ -2,10 +2,7 @@ package com.github.pjm03.TrainProject.station;
 
 import com.github.pjm03.TrainProject.objects.StationData;
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -17,6 +14,7 @@ public class StationController {
     private final StationService stationService;
 
     @GetMapping("/all")
+    @CrossOrigin("http://localhost:3000")
     public List<StationData> allStationPosition() {
         return stationService.getAllStationNames().stream()
                 .map(stationService::getStationData)
@@ -24,6 +22,7 @@ public class StationController {
     }
 
     @GetMapping("/{name}")
+    @CrossOrigin("http://localhost:3000")
     public StationData stationPosition(@PathVariable String name) {
         return stationService.getStationData(name);
     }
