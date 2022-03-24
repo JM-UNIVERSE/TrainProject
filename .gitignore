@@ -1,0 +1,66 @@
+./data
+
+############################################
+#frontend
+# dependencies
+frontend/train-project/node_modules
+frontend/train-project/.pnp
+frontend/train-project/.pnp.js
+
+# testing
+frontend/train-project/coverage
+
+# production
+frontend/train-project/build
+
+# misc
+frontend/train-project/train_project/.DS_Store
+frontend/train-project/.env.local
+frontend/train-project/.env.development.local
+frontend/train-project/.env.test.local
+frontend/train-project/.env.production.local
+
+frontend/train-project/npm-debug.log*
+frontend/train-project/yarn-debug.log*
+frontend/train-project/yarn-error.log*
+#################################################
+
+#################################################
+#backend
+backend/HELP.md
+backend/.gradle
+backend/build/
+backend/!gradle/wrapper/gradle-wrapper.jar
+backend/!**/src/main/**/build/
+backend/!**/src/test/**/build/
+backend/
+### STS ###
+backend/.apt_generated
+backend/.classpath
+backend/.factorypath
+backend/.project
+backend/.settings
+backend/.springBeans
+backend/.sts4-cache
+backend/bin/
+backend/!**/src/main/**/bin/
+backend/!**/src/test/**/bin/
+backend/
+### IntelliJ IDEA ###
+backend/.idea
+backend/*.iws
+backend/*.iml
+backend/*.ipr
+backend/out/
+backend/!**/src/main/**/out/
+backend/!**/src/test/**/out/
+backend/
+### NetBeans ###
+backend//nbproject/private/
+backend//nbbuild/
+backend//dist/
+backend//nbdist/
+backend//.nb-gradle/
+backend/
+### VS Code ###
+backend/.vscode/
